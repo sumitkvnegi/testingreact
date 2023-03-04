@@ -1,0 +1,13 @@
+react is made up on - css html js
+
+
+create a new react app 
+pre-requirement
+- node / npm
+
+command:-
+npx create-react-app myapp
+
+#Deployment
+
+1.create a new repo in your github account
